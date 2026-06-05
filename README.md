@@ -8,7 +8,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Kastalco97/Kastalco97?logo=github)
 
-### :zap: Recent activity
+\### :zap: Recent activity
 
 \<!--START\_SECTION:activity-->
 
