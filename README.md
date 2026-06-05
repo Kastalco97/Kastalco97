@@ -8,14 +8,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Kastalco97/Kastalco97?logo=github)
 
-\### :zap: Recent activity
-
-\<!--START\_SECTION:activity-->
-
-\<!--END\_SECTION:activity-->
-
-
-
-\<!--RECENT\_ACTIVITY:start-->
-
-\<!--RECENT\_ACTIVITY:last\_update-->
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
